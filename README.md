@@ -50,7 +50,3 @@ Este projeto é uma homenagem a todos os fãs de *Stranger Things* e a todos os 
 ## ✍️ Contribuições
 
 As contribuições são mais do que bem-vindas! Se você deseja adicionar novos recursos ou melhorar a aventura, não hesite em abrir uma issue ou um pull request.
-
-## 📜 Licença
-
-Este projeto está sob a licença MIT.
