@@ -1,6 +1,6 @@
 # 🌌 Mundo Invertido 🌌
 
-<img width="300" src="https://Nivaldo-Nilngn.github.io/mundo-invertido/assets/images/banner/logo.svg" alt="Mundo Invertido Logo">
+<img width="300"  src="https://github.com/Nivaldo-Nilngn/mundo-invertido/blob/main/assets/images/banner/logo.svg" alt="Mundo Invertido Logo">
 
 **Bem-vindo, aventureiro!** Você está prestes a embarcar em uma jornada emocionante pelo **Mundo Invertido**, onde os perigos espreitam a cada esquina e os desafios são apenas o começo da sua aventura. Prepare-se para entrar no universo de *Stranger Things* e Dungeons & Dragons!
 
@@ -13,7 +13,7 @@ O **Mundo Invertido** é uma experiência interativa que transporta você para u
 - **Galeria Épica**: Navegue por imagens icônicas da série.
 - **Inscreva-se no Clube de D&D**: Junte-se aos heróis de Hawkins e participe da próxima aventura!
 
-[Visite o Mundo Invertido](https://nivaldo-nilngn.github.io/mundo-invertido)
+[Visite o Mundo Invertido](https://Nivaldo-Nilngn.github.io/mundo-invertido)
 
 ## ⚙️ Tecnologias Utilizadas
 
